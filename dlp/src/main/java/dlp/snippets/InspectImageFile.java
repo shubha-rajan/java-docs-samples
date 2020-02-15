@@ -17,6 +17,7 @@
 package dlp.snippets;
 
 // [START dlp_inspect_image_file]
+
 import com.google.cloud.dlp.v2.DlpServiceClient;
 import com.google.privacy.dlp.v2.ByteContentItem;
 import com.google.privacy.dlp.v2.ByteContentItem.BytesType;
